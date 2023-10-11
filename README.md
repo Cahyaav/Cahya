@@ -20,7 +20,7 @@
         <br>
         <p>
             <font size=3>Assalammualaikum.Wr.Wb.
-            Apakabar semua. Salam kenal ini adalah web perdanaku. Web ini berisi informasi tentang kegemaranku. <br>Semoga web ini dapat menginspirasi Anda pada waktu liburan.<a href="http://www.google.com">google</a>
+            Apakabar semua. Salam kenal ini adalah web perdanaku. Web ini berisi informasi tentang kegemaranku. <br>Semoga web ini dapat menginspirasi Anda pada waktu liburan.<a href="http://www.google.com">
             <section id="about">
                 <h2>Tentang Saya</h2>
                 <p>Saya adalah seorang Junior Web front-end dan Back-end, Saya memiliki minat dalam teknologi dan selalu bersemangat untuk mempelajari untuk menata massa depan yang lebih baik</p>
