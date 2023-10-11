@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tentang Saya</title>
 </head>
 <body>
         <hr color="blue" width="70%" size="5" align="left">
