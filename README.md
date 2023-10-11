@@ -27,9 +27,5 @@
                 <h2>Kontak</h2>
                 <p>Jika Anda tertarik untuk bekerja sama, silakan hubungi saya melalui email di <a href="cahyafauzi31@gmail.com">cahyafauzi31@gmail.com</a>.</p>
             </font>
-
-        </p>
-    </body>
-    </html>
 </body>
 </html>
