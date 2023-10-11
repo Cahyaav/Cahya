@@ -1,9 +1,8 @@
-# CahyaFauzi
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hyperlink</title>
+    <title>Tentang Saya</title>
 </head>
 <body>
         <hr color="blue" width="70%" size="5" align="left">
@@ -23,7 +22,7 @@
             Apakabar semua. Salam kenal ini adalah web perdanaku. Web ini berisi informasi tentang kegemaranku. <br>Semoga web ini dapat menginspirasi Anda pada waktu liburan.<a href="http://www.google.com">
             <section id="about">
                 <h2>Tentang Saya</h2>
-                <p>Saya adalah seorang Junior Web front-end dan Back-end, Saya memiliki minat dalam teknologi dan selalu bersemangat untuk mempelajari untuk menata massa depan yang lebih baik</p>
+                <p>Saya adalah seorang Junior Web front-end dan Back-end, Saya memiliki minat dalam teknologi dan selalu bersemangat untuk mempelajari perkembangan Web yang semakin berkembang di Dunia Teknologi</p>
             </section>
                 <h2>Kontak</h2>
                 <p>Jika Anda tertarik untuk bekerja sama, silakan hubungi saya melalui email di <a href="cahyafauzi31@gmail.com">cahyafauzi31@gmail.com</a>.</p>
