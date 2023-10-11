@@ -21,8 +21,12 @@
         <p>
             <font size=3>Assalammualaikum.Wr.Wb.
             Apakabar semua. Salam kenal ini adalah web perdanaku. Web ini berisi informasi tentang kegemaranku. <br>Semoga web ini dapat menginspirasi Anda pada waktu liburan.<a href="http://www.google.com">google</a>
-            Silakan hubungi saya jika ada yang ingin didiskusikan <a
-            href="mailto:noveindra31.gmail.com">email</a><a href="cahya":cahyafauzi31@gmail.com”>…</a>
+            <section id="about">
+                <h2>Tentang Saya</h2>
+                <p>Saya adalah seorang pengembang web dengan pengalaman dalam pengembangan front-end dan back-end. Saya memiliki minat dalam teknologi dan selalu bersemangat untuk mempelajari hal-hal baru.</p>
+            </section>
+                <h2>Kontak</h2>
+                <p>Jika Anda tertarik untuk bekerja sama, silakan hubungi saya melalui email di <a href="cahyafauzi31@gmail.com">cahyafauzi31@gmail.com</a>.</p>
             </font>
         </p>
     </body>
